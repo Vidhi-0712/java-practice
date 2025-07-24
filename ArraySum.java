@@ -8,6 +8,7 @@ public class ArraySum {
         for(int i=0; i<=abc.length-1; i++){
             sum=sum+abc[i];
         }
+
         System.out.println(sum);
     }
 }
